@@ -37,7 +37,7 @@ cd $DIR
 sudo apt-get install python3-matplotlib libhdf5-dev libffi-dev
 pip3 install tqdm pycocotools 
 # jupyter notebook
-pip3 install pandas pillow
+pip3 install pandas pillow==4.1.1
 #pip3 install h5py scipy scikit-image scikit-learn 
 pip3 install cffi jupyter ipywidgets packaging notebook jupyterlab
 
