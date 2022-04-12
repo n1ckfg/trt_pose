@@ -1,0 +1,5 @@
+/build/
+/dist/
+/trt_pose.egg-info/
+/tasks/human_pose/.ipynb_checkpoints/
+
